@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+/.autotools
+/README.md
+/.settings/
+/.directory
